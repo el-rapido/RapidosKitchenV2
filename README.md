@@ -1,6 +1,3 @@
-Here's the content in Markdown format:
-
-```markdown
 # Recipe Bot Project
 
 This project is a **Telegram Recipe Bot** that leverages **Gemma 3**, an AI model integrated via **Ollama**, to provide users with personalized recipes, meal planning, and nutritional information. The bot interacts with users through Telegram messages, allowing them to request recipes based on available ingredients, create weekly meal plans, and inquire about nutritional data. It enhances the user experience with smart conversation features like greeting messages and natural-sounding responses.
@@ -12,7 +9,7 @@ This project is a **Telegram Recipe Bot** that leverages **Gemma 3**, an AI mode
 - **History Tracking**: The bot maintains conversation history and offers users the option to view or clear their recent searches.
 - **Smart Conversations**: The bot tracks user conversations and responds accordingly, with the ability to handle common meal-related requests and maintain a friendly tone.
 
-## Linking to the Old Project
+## Linking to Recipebot
 
 In the earlier version of this project, the **Spoonacular API** was used to fetch recipes, nutritional data, and meal plans. With the integration of **Gemma 3** via **Ollama**, the bot now generates all this information on the fly based on natural language processing, providing a more flexible and intelligent interaction with the user. This AI-powered approach allows for better customization of recipe suggestions and meal plans, adapting to individual user needs more effectively than the API-driven model.
 
@@ -62,7 +59,4 @@ If you'd like to deploy your bot to a cloud service (e.g., Heroku, AWS, or Digit
 
 ---
 
-This should get your Telegram Recipe Bot up and running, with all the enhanced AI features powered by **Gemma 3**! Let me know if you need more help with any of the steps!
-```
 
-You can copy and paste this Markdown into a `.md` file, and it will format neatly when viewed in a Markdown reader or on platforms like GitHub. Let me know if you need any changes!
