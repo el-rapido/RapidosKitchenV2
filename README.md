@@ -1,4 +1,4 @@
-# Recipe Bot Project
+# Recipebot V2
 
 This project is a **Telegram Recipe Bot** that leverages **Gemma 3**, an AI model integrated via **Ollama**, to provide users with personalized recipes, meal planning, and nutritional information. The bot interacts with users through Telegram messages, allowing them to request recipes based on available ingredients, create weekly meal plans, and inquire about nutritional data. It enhances the user experience with smart conversation features like greeting messages and natural-sounding responses.
 
