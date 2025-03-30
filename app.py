@@ -42,7 +42,7 @@ def query_gemma(prompt, chat_id=None, with_history=False):
         messages.append({"role": "user", "content": prompt})
         
         print(f"Querying Gemma with prompt: {prompt}")  # Debugging
-        response = ollama.chat(model='gemma3:4b', messages=messages)
+        response = ollama.chat(model='gemma3:1b', messages=messages)
         
         # Extract message content correctly
         if 'message' in response and 'content' in response['message']:
